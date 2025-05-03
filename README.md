@@ -62,6 +62,8 @@ X	Exit program
 Each key input updates the position dictionary, formats it into JSON, and sends it over the serial connection with a short delay to prevent command flooding.
 
 Experimental Results
+![image](https://github.com/user-attachments/assets/7de61d9d-fa99-492c-9ba9-389781a48053)
+
 Smooth and responsive manual control
 
 Accurate object picking and placement
